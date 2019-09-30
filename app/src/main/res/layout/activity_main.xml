@@ -20,7 +20,7 @@
         android:textStyle="bold"
         android:textAllCaps="true"
         android:textColor="#f99839"
-        android:textSize="50dp" />
+        android:textSize="30dp" />
 
 
     <TextView
